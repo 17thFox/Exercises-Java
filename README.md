@@ -1,5 +1,7 @@
 # Exercises-Java
 
+### Implement:
+
 1. Queue
 1. Stack
 1. Linked list
@@ -17,6 +19,7 @@
 1. Quick Sort
 1. Merge Sort
 
+### Use:
 
 1. Hash/Map (tabel de dispersie)
 1. ArrayList

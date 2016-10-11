@@ -3,6 +3,7 @@
 1. Queue
 1. Stack
 1. Linked list
+1. Set
 1. Tree:
   1. In-order (stanga-varf-dreapta) 
   1. Pre-order (varf-stanga-dreapta) 

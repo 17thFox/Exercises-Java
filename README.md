@@ -16,4 +16,7 @@
 1. Binary search
 1. Quick Sort
 1. Merge Sort
+
+
 1. Hash/Map (tabel de dispersie)
+1. ArrayList
